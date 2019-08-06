@@ -9,14 +9,14 @@
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="stylesheet" type="text/css" href="/css/adm/style.css" />		
-		<link href="http://fonts.googleapis.com/css?family=Play" rel="stylesheet" type="text/css">
+		<link href="//fonts.googleapis.com/css?family=Play" rel="stylesheet" type="text/css">
 		<title>Авторизоватся - Bastion CMS</title>
 	</head>
 	<body style="background: #ecf0f5;min-width:500px;width:100%;position:relative;margin-bottom:10px; overflow-y:hidden;">
 		<div class="login">
 			<div class="headlogin">
 				<div class="headtitle">
-					<p><b>Bastion</b> CMS</p>
+					<p><b>NPM</b> CMS</p>
 				</div>
 			</div>
 			<div class="bodylogin">
@@ -40,8 +40,8 @@
 				</div>
 			</div>
 			<div class="footerlogin">
-				&copy; Сайт работает на <a href="http://bastiondesign.ru/cms-services.html">Bastion CMS v3.0</a><br>
-				Данный продук защищен авторскими правами. Тех. поддержка: <a href="mailto:info@bastiondesign.ru">info@bastiondesign.ru</a>
+				&copy; Сайт работает на <a href="//npmstudio.ru/">NPM CMS v3.0</a><br>
+				Данный продук защищен авторскими правами. Тех. поддержка: <a href="mailto:info@npmstudio.ru">info@npmstudio.ru</a>
 			</div>
 		</div>
 	</body>

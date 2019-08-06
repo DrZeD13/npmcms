@@ -20,8 +20,8 @@
 <body class="sidebar-mini">
 	<header class="main-header">
 		<div class="logo">
-			<span class="logo-mini"><b>B</b></span>
-			<span class="logo-lg"><b>Bastion</b> CMS</span>
+			<span class="logo-mini"><b>NPM</b></span>
+			<span class="logo-lg"><b>NPM</b> CMS</span>
 		</div>	
 		<nav class="navbar navbar-static-top">
 			<a href="#" class="sidebar-toggle" id="menutoggle"><i class="fa fa-reorder"></i></a>
@@ -29,7 +29,7 @@
 				<ul class="nav navbar-nav">
 					<li class="dropdown user user-menu">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">
-						<span><i class="fa fa-user"></i> Admin</span>
+						<span><i class="fa fa-user"></i> <?=$_SESSION["A_USER"]?></span>
 						</a>
 						<ul class="dropdown-menu">
 							<li>               
@@ -54,7 +54,7 @@
 		<div class="pull-right hidden-xs">
 		  <b>Version</b> 3.0.0
 		</div>
-		<strong>&copy; <a href="http://bastiondesign.ru">Bastion CMS</a>, 2017.</strong> Все права защищены.
+		<strong>&copy; <a href="//npmstudio.ru">NPM CMS</a>, 2019.</strong> Все права защищены.
 	</footer>
 	<script src="/js/adm/jquery.min.js"></script>
 	<script src="/js/adm/bootstrap.min.js"></script>

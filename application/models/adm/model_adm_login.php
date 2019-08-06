@@ -51,6 +51,7 @@ class Model_Adm_Login extends Model
 			{
 				$this->historyLogin($login, "on");				
 				$_SESSION["A_ID"] = $admin;
+				$_SESSION["A_USER"] = $login;
 				$_SESSION["token"] = md5(time());
 				$sql = "SELECT pages FROM `admins` WHERE admin_id = '".$admin."'";		
 				$temp = $this->db->GetOne($sql, "");	
