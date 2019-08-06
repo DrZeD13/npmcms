@@ -1,6 +1,3 @@
-#RewriteCond %{HTTP_HOST} !^cookjoy\.ru$
-#RewriteRule ^/?(.*) http://cookjoy.ru/$1 [L,R=301]
-
 RewriteEngine on
 Options +FollowSymlinks
 Options -Indexes
